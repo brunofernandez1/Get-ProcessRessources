@@ -122,7 +122,6 @@ $global:FilteredProcessList = $null
 $global:CPUInUse = $null
 [UInt64]$global:MemoryInuse = $null
 $global:ScriptVersion = "1.3.2"
-$global:bla = "blabla"
 
 #Nagios exit codes
 $ExitCodes = 
